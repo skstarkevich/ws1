@@ -1,0 +1,18 @@
+<distr>
+  <key>BrowsingDataLifetime</key>
+  <array>
+      <dict>
+        <key>data_types</key>
+          <array>
+            <string>password_signin</string>
+            <string>autofill</string>
+          </array>
+        <key>time_to_live_in_hours</key>
+          <integer>12</integer>
+        <key>SyncDisabled</key>
+          <true /> 
+        <key>PasswordManagerEnabled</key>
+          <false />
+        </dict>
+    </array> 
+</distr>

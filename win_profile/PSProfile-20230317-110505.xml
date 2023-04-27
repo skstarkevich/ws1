@@ -1,0 +1,5 @@
+<wap-provisioningdoc id="9eb4f293-bac5-4fa3-a1b0-27392002ee7f" name="customprofile">
+  <characteristic type="com.airwatch.winrt.powershellcommand" uuid="808b24a5-da5e-4ce0-9745-669e306704ef">
+    <parm name="PowershellCommand" value="powershell -EncodedCommand JgAiAEMAOgBcAFAAcgBvAGcAcgBhAG0AIABGAGkAbABlAHMAXABDAG8AbQBtAG8AbgAgAEYAaQBsAGUAcwBcAG0AaQBjAHIAbwBzAG8AZgB0ACAAcwBoAGEAcgBlAGQAXABDAGwAaQBjAGsAVABvAFIAdQBuAFwATwBmAGYAaQBjAGUAQwAyAFIAQwBsAGkAZQBuAHQALgBlAHgAZQAiACAALwB1AHAAZABhAHQAZQAgAHUAcwBlAHIAIABkAGkAcwBwAGwAYQB5AGwAZQB2AGUAbAA9AGYAYQBsAHMAZQAgAGYAbwByAGMAZQBhAHAAcABzAGgAdQB0AGQAbwB3AG4APQB0AHIAdQBlAA==" />
+  </characteristic>
+</wap-provisioningdoc>

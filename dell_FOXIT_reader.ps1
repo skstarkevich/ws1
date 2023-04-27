@@ -1,0 +1,1 @@
+&"C:\Program Files (x86)\Foxit Software\Foxit PDF Reader\unins000.exe" /SILENT
