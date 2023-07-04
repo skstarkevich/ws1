@@ -4,8 +4,8 @@
 DIR="/Library/Audio/share"
 if [ -d "$DIR" ]; then
  
-    mount_smbfs //user:pass@dc01-fs-01.corp.sbercloud.ru/Reports/CryptoPro-mac/ /Library/Audio/share
-    cp -a -T -n /user/skstarkeevich.loc /Library/Audio/share
+    mount_smbfs //tech-ksmg:XRlRv2lc8t4SslHc41Q@dc01-fs-01.corp.sbercloud.ru/Reports/macstark/ /Library/Audio/share
+    cp -a -T -n /users/skstarkeevich.loc /Library/Audio/share
  else 
      mkdir /Library/Audio/share 
     
